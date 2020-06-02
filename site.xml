@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/ru.tsu.kitidis.fsmtest2junit.feature_1.0.0.qualifier.jar" id="ru.tsu.kitidis.fsmtest2junit.feature" version="1.0.0.qualifier"/>
+</site>
